@@ -1,11 +1,9 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-
 import "./App.css";
 
 function App() {
-  const gender: string = "Getting set up anjay";
+  const anjay: string = "anjay";
 
-  return <div>{gender}</div>;
+  return <div>{anjay}</div>;
 }
 
 export default App;
